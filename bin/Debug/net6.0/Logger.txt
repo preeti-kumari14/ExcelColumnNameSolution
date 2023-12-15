@@ -1,0 +1,3 @@
+
+Exception: LoggerDate: 15-12-2023 19:48:09 - System.DivideByZeroException: Attempted to divide by zero.
+   at IRIS_Test.GetExcelCoulmnNumberFromRowName.Main(String[] args) in C:\Users\preet\source\repos\IRIS_Test\ExcelProgram.cs:line 21

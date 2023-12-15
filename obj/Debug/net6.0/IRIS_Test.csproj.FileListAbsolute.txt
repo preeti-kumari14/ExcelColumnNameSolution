@@ -1,0 +1,14 @@
+C:\Users\preet\source\repos\IRIS_Test\bin\Debug\net6.0\IRIS_Test.exe
+C:\Users\preet\source\repos\IRIS_Test\bin\Debug\net6.0\IRIS_Test.deps.json
+C:\Users\preet\source\repos\IRIS_Test\bin\Debug\net6.0\IRIS_Test.runtimeconfig.json
+C:\Users\preet\source\repos\IRIS_Test\bin\Debug\net6.0\IRIS_Test.dll
+C:\Users\preet\source\repos\IRIS_Test\bin\Debug\net6.0\IRIS_Test.pdb
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\IRIS_Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\IRIS_Test.AssemblyInfoInputs.cache
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\IRIS_Test.AssemblyInfo.cs
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\IRIS_Test.csproj.CoreCompileInputs.cache
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\IRIS_Test.dll
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\refint\IRIS_Test.dll
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\IRIS_Test.pdb
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\IRIS_Test.genruntimeconfig.cache
+C:\Users\preet\source\repos\IRIS_Test\obj\Debug\net6.0\ref\IRIS_Test.dll
